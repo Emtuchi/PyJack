@@ -4,8 +4,6 @@ This project is a Python-based web scraper that extracts structured data from dy
 
 ---
 
----
-
 ## Features
 
 - Handles **JavaScript-rendered dynamic content** with Selenium.

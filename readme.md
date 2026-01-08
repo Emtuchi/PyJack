@@ -4,8 +4,6 @@ This project is a Python-based web scraper that extracts structured data from dy
 
 ---
 
-## Project Structure
-
 ---
 
 ## Features

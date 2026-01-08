@@ -6,13 +6,6 @@ This project is a Python-based web scraper that extracts structured data from dy
 
 ## Project Structure
 
-web_scraper_project/
-│
-├─ scraper.py # Main scraping script
-├─ utils.py # Helper functions (headers, delays, error handling)
-├─ requirements.txt # Python dependencies
-└─ output/ # Folder for CSV/JSON outputs
-
 ---
 
 ## Features
